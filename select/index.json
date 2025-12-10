@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "PUZZLE",
+  "base_artist": "Shota Shimizu",
+  "createdAt": "2025-12-10T07:53:08.823852Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Puzzle",
+      "artist": "Lapalux feat. Andreya Triana",
+      "has_synced": false,
+      "path": "select/01_Puzzle_Lapalux_feat._Andreya_Triana.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Puzzle (feat. Andreya Triana)",
+      "artist": "Lapalux",
+      "has_synced": false,
+      "path": "select/02_Puzzle_(feat._Andreya_Triana)_Lapalux.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Four-Piece Jigsaw Puzzle",
+      "artist": "Action Action",
+      "has_synced": false,
+      "path": "select/03_Four-Piece_Jigsaw_Puzzle_Action_Action.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "The Puzzle",
+      "artist": "Ane Brun",
+      "has_synced": true,
+      "path": "select/04_The_Puzzle_Ane_Brun.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Love Will Turn Your Head Around (DJ Puzzle Remix)",
+      "artist": "Karmacoda",
+      "has_synced": false,
+      "path": "select/05_Love_Will_Turn_Your_Head_Around_(DJ_Puzzle_Remix)_Karmacoda.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Monkey Puzzle",
+      "artist": "The Brian Jonestown Massacre",
+      "has_synced": true,
+      "path": "select/06_Monkey_Puzzle_The_Brian_Jonestown_Massacre.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Where Is The Puzzle",
+      "artist": "Bonnie \"Prince\" Billy",
+      "has_synced": false,
+      "path": "select/07_Where_Is_The_Puzzle_Bonnie__Prince__Billy.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Puzzle",
+      "artist": "The Notwist",
+      "has_synced": true,
+      "path": "select/08_Puzzle_The_Notwist.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Everyone A Puzzle Lover",
+      "artist": "10,000 Maniacs",
+      "has_synced": false,
+      "path": "select/09_Everyone_A_Puzzle_Lover_10,000_Maniacs.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Stuck on the puzzle",
+      "artist": "Alex Turner",
+      "has_synced": true,
+      "path": "select/10_Stuck_on_the_puzzle_Alex_Turner.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Puzzle With a Piece Missing",
+      "artist": "Gotye",
+      "has_synced": true,
+      "path": "select/11_Puzzle_With_a_Piece_Missing_Gotye.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Human Puzzle",
+      "artist": "Mortician",
+      "has_synced": true,
+      "path": "select/12_Human_Puzzle_Mortician.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "The One Piece Puzzle",
+      "artist": "Skyclad",
+      "has_synced": true,
+      "path": "select/13_The_One_Piece_Puzzle_Skyclad.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Puzzle Pieces",
+      "artist": "Saint Motel",
+      "has_synced": true,
+      "path": "select/14_Puzzle_Pieces_Saint_Motel.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Jigsaw Puzzle",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/15_Jigsaw_Puzzle_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Jig-Saw Puzzle",
+      "artist": "The Rolling Stones",
+      "has_synced": true,
+      "path": "select/16_Jig-Saw_Puzzle_The_Rolling_Stones.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "PUZZLE",
+      "artist": "清水 翔太",
+      "has_synced": false,
+      "path": "select/pl_01_PUZZLE_清水_翔太.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "PUZZLE",
+      "artist": "清水 翔太",
+      "has_synced": false,
+      "path": "select/pl_02_PUZZLE_清水_翔太.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "PUZZLE",
+      "artist": "清水 翔太",
+      "has_synced": false,
+      "path": "select/pl_03_PUZZLE_清水_翔太.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "PUZZLE - from THE FIRST TAKE",
+      "artist": "清水 翔太",
+      "has_synced": false,
+      "path": "select/pl_04_PUZZLE_-_from_THE_FIRST_TAKE_清水_翔太.txt"
+    }
+  ]
+}
